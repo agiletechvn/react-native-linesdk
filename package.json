@@ -1,6 +1,6 @@
 {
   "name": "react-native-linesdk",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description":
     "A React Native wrapper around the LINE SDK for Android and iOS.",
   "main": "index.js",
