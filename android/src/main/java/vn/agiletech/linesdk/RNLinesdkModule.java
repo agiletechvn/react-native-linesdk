@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package vn.agiletech.linesdk;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;

@@ -1,5 +1,4 @@
-
-package com.reactlibrary;
+package vn.agiletech.linesdk;
 
 import java.util.Arrays;
 import java.util.Collections;
