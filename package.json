@@ -1,0 +1,21 @@
+{
+  "name": "react-native-linesdk",
+  "version": "1.0.0",
+  "description":
+    "A React Native wrapper around the LINE SDK for Android and iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react-native"],
+  "author": "Nguyen Anh Tuan (anhtuank7c@hotmail.com)",
+  "license": "MIT",
+  "homepage": "http://agiletech.vn",
+  "bugs": {
+    "email": "anhtuank7c@hotmail.com",
+    "url": "https://github.com/anhtuank7c/react-native-linesdk/issues"
+  },
+  "peerDependencies": {
+    "react-native": "^0.50.0"
+  }
+}
